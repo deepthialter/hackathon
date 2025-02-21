@@ -1,3 +1,3 @@
 # hackathon
-jewelry e-commerce website
+jewelry e-commerce website<br>
 team name: xceler8
